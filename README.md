@@ -1,5 +1,5 @@
 # Fit the shape
-### Developped a simple game in OpenGL. 
+### A game developped in OpenGL. 
 
 
 Video Demo: https://youtu.be/BVfXsMKdX0s
